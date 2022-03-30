@@ -20,7 +20,7 @@ public class Repaiting {
         maistori=(suma*30/100)*hours;
         obshta_suma=suma+maistori;
 
-        System.out.println(obshta_suma);
+        System.out.println(obshta_suma);;
 
     }
 }
