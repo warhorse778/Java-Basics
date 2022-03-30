@@ -5,7 +5,7 @@ public class MaxNumber {
         Scanner sc = new Scanner(System.in);
 
         String input = sc.nextLine();
-        int maxN = 0;
+        int maxN = Integer.MIN_VALUE;
 
         while(!input.equals("Stop")){
             int n = Integer.parseInt(input);
