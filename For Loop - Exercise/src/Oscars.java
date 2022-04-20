@@ -1,0 +1,2 @@
+public class Oscars {
+}
